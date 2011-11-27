@@ -27,4 +27,5 @@ this even more useful for others. Thanks!
 
 Instructions
 ------------
-To actually get a mobile app you have to include campingstove in a project for any mobile OS SDK ([see phongap site](http://phonegap.com/start)).
+To actually get a mobile app you have to include campingstove in a project for any mobile OS SDK. Put campingstove in
+the 'assets/www' folder ([see phongap site](http://phonegap.com/start)).
