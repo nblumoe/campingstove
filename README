@@ -1,0 +1,4 @@
+campingstove
+=============
+campingstove is a boilerplate for platform independent mobile app development.
+It utilizes phonegap, jQuery Mobile, Backbone.js and require.js.
