@@ -8,7 +8,7 @@ The philosophy of campingstove is to get a basis for creating mobile apps in a f
 for the most important mobile OS.
 
 Currently campingstove includes example code and comments for a simple view and
-a model. We are going to provide a more naked version which will be less illustrative but allows to immediately start
+a model. We are going to provide an additional, more naked version which will be less illustrative but allows to immediately start
 writing you own app without having to remove preexisting code.
 
 Frameworks
