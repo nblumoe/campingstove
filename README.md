@@ -17,6 +17,7 @@ The following frameworks are included in campingstove:
 
 * [PhoneGap](http://phonegap.com/) --- enables platform independent, installable apps
 * [jQuery Mobile](http://jquerymobile.com/) --- creates native-like UI
+* [Underscore.js](http://documentcloud.github.com/underscore/) --- templating system and dependency of Backbone.js
 * [Backbone.js](http://documentcloud.github.com/backbone/) --- MVC-like coding pattern
 * [Require.js](http://requirejs.org/) --- modularize code
 
