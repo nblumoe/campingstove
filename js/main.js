@@ -19,8 +19,10 @@ require.config({
 // start application module
 require(
 		// ensure phonegap is loaded before we load the app module
-		[ 'order!phonegap', 'order!app' ],
-		function(phonegap, App) {
-			App.initialize();
+		[ 'order!phonegap', 'order!app', 'order!jquery' ],
+		function(phonegap, App, $) {
+			$(document).bind("deviceReady", function() {
+				App.initialize();
+			});
 		}
 )
